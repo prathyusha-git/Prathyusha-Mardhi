@@ -40,7 +40,8 @@ Here are some cool projects I've worked on:
 
 ## 📫 Connect with Me  
 - 🌐 [LinkedIn](www.linkedin.com/in/prathyushareddy282)  
-- 💌 [Email](prathyusha8@ksu.edu)  
+- 💌 [Email](prathyusha8@ksu.edu)
+- (Blogs)https://medium.com/@prathyushareddy9908/exponential-family-of-distributions-making-math-intuitive-26cbfdf710f7
 
 
 ---
